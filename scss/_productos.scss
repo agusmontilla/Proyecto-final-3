@@ -1,0 +1,72 @@
+//index
+.backgroundSectionP{
+	background-image: url(../imagenes/fondomadera.jpg) ;
+	background-size: cover;
+	padding: 20px 0;
+	margin: 20px 0;
+}
+.articleDestacados{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-content: center;
+}
+.tamañoImagen{
+	width: 220px;
+	height: 300px;
+}
+.tamañoImagenSmir{
+	width: 220px;
+	height: 300px;
+	margin-left: 50px;
+}
+
+//productos
+.backgoundPromos{
+	background-color: $white;
+}
+#paddingProductos{
+	margin-bottom: 40px;
+	margin-top: 70px;
+	overflow: hidden;
+}
+.marginSection{
+	margin: 10px; 
+	padding-bottom: 50px;
+}
+.scale:hover{
+	transform: scale(1.1);
+	cursor: pointer;
+}
+.imageProductos{
+	width: 220px;
+	height: 280px;
+}
+.w{
+	width: 25%;
+	margin-top: 40px ;
+	margin-bottom: 40px;
+}
+
+
+//promociones
+#paddingPromociones{
+	padding-top: 70px;
+}
+.paddingFigure{
+	padding-bottom: 30px;
+	margin: 25px;
+	width: 25%;	
+}
+.imagePromociones{
+	width: 220px;
+	height: 280px;
+}
+.display{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.sectionmargin{
+	padding-left: 110px;
+}

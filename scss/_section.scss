@@ -1,0 +1,19 @@
+#heroe{
+    padding-top:70px;
+	padding-bottom: 0;
+}
+.colorFondo{
+	background-color:  $mainColor;
+	overflow-x: hidden;
+}
+.backgroundSectionN{
+	background-color: #D9CA9C;
+	margin: 20px 0;
+}
+.boxArticle{
+	width: 40%;
+	margin: 0px 15px ;
+	padding: 40px 30px;
+	border:solid 1px  $black;
+	overflow: none;		
+}
